@@ -1,0 +1,9 @@
+# ninja log v5
+2	574	7386694020154628	untitled_autogen/timestamp	94373f993100c516
+2	574	7386694020154628	untitled_autogen/mocs_compilation.cpp	94373f993100c516
+2	574	7386694020154628	C:/Users/danny/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/timestamp	94373f993100c516
+2	574	7386694020154628	C:/Users/danny/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	94373f993100c516
+579	2556	7386694040544287	CMakeFiles/untitled.dir/main.cpp.obj	f181e0108b4ee536
+575	2581	7386694040805107	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	514a6489e1dd253c
+582	2801	7386694042984955	CMakeFiles/untitled.dir/mainwindow.cpp.obj	d5a19fae74dd44e1
+2801	2978	7386694044723921	untitled.exe	661a74156738a20c
