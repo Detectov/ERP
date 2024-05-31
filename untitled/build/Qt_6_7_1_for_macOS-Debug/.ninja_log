@@ -1,0 +1,9 @@
+# ninja log v5
+0	389	1717052599941662103	untitled_autogen/timestamp	eb40993c1a864f13
+0	389	1717052599941662103	untitled_autogen/mocs_compilation.cpp	eb40993c1a864f13
+0	389	1717052599941662103	/Users/Mou/Desktop/ERP/untitled/build/Qt_6_7_1_for_macOS-Debug/untitled_autogen/timestamp	eb40993c1a864f13
+0	389	1717052599941662103	/Users/Mou/Desktop/ERP/untitled/build/Qt_6_7_1_for_macOS-Debug/untitled_autogen/mocs_compilation.cpp	eb40993c1a864f13
+389	1158	1717052600711035091	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	f52183abd2ffeb0e
+389	1160	1717052600711035341	CMakeFiles/untitled.dir/main.cpp.o	6b8366015d047fd4
+389	1196	1717052600751107395	CMakeFiles/untitled.dir/mainwindow.cpp.o	c634266f0e4e9811
+1196	1382	1717052600936795671	untitled.app/Contents/MacOS/untitled	8b0bc9d7160e91ec
