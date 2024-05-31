@@ -1,0 +1,9 @@
+/Users/Mou/Desktop/ERP/untitled/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/untitled.dir
+/Users/Mou/Desktop/ERP/untitled/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/Mou/Desktop/ERP/untitled/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/Mou/Desktop/ERP/untitled/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/Mou/Desktop/ERP/untitled/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/install.dir
+/Users/Mou/Desktop/ERP/untitled/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/Mou/Desktop/ERP/untitled/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/Mou/Desktop/ERP/untitled/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/untitled_autogen_timestamp_deps.dir
+/Users/Mou/Desktop/ERP/untitled/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/untitled_autogen.dir
