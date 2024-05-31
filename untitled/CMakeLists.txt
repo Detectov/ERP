@@ -17,6 +17,20 @@ set(PROJECT_SOURCES
         mainwindow.cpp
         mainwindow.h
         mainwindow.ui
+        Productos.cpp
+        Products.ui
+        Productos.h
+        Sales.cpp
+        Sales.ui
+        Sales.h
+        Reports.cpp
+        Reports.ui
+        Reports.h
+        clients.cpp
+        Clients.ui
+        clients.h
+
+        Users.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
