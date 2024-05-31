@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-d6114e49c55bfdf93f54.json",
+					"jsonFile" : "directory-.-Debug-fe8547d6e5366cfa651c.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "untitled::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-untitled-Debug-f281438daa78963a93ea.json",
+					"jsonFile" : "target-untitled-Debug-fe869be9e85ff0f671dd.json",
 					"name" : "untitled",
 					"projectIndex" : 0
 				},
@@ -68,8 +68,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/danny/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
-		"source" : "C:/Users/danny/Documents/ERP/untitled"
+		"build" : "C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/anton/Documents/ERP/untitled"
 	},
 	"version" : 
 	{

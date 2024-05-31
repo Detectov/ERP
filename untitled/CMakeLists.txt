@@ -17,31 +17,27 @@ set(PROJECT_SOURCES
         mainwindow.cpp
         mainwindow.h
         mainwindow.ui
-        Productos.cpp
+        Products.cpp
         Products.ui
-        Productos.h
+        Products.h
         Sales.cpp
         Sales.ui
         Sales.h
-        Reports.cpp
+        reports.cpp
         Reports.ui
-        Reports.h
+        reports.h
         clients.cpp
         Clients.ui
         clients.h
-
+        Users.cpp
         Users.ui
+        Users.h
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(untitled
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
-        Products.ui
-        Sales.ui
-        Reports.ui
-        Clients.ui
-        Users.ui
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET untitled APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

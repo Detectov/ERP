@@ -607,14 +607,26 @@ untitled_autogen/timestamp: \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
-	C:/Users/danny/Documents/ERP/untitled/CMakeLists.txt \
-	C:/Users/danny/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
-	C:/Users/danny/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake \
-	C:/Users/danny/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeRCCompiler.cmake \
-	C:/Users/danny/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeSystem.cmake \
-	C:/Users/danny/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/moc_predefs.h \
-	C:/Users/danny/Documents/ERP/untitled/main.cpp \
-	C:/Users/danny/Documents/ERP/untitled/mainwindow.cpp \
-	C:/Users/danny/Documents/ERP/untitled/mainwindow.h \
-	C:/Users/danny/Documents/ERP/untitled/mainwindow.ui \
+	C:/Users/anton/Documents/ERP/untitled/CMakeLists.txt \
+	C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
+	C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake \
+	C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeRCCompiler.cmake \
+	C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeSystem.cmake \
+	C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/moc_predefs.h \
+	C:/Users/anton/Documents/ERP/untitled/clients.cpp \
+	C:/Users/anton/Documents/ERP/untitled/clients.h \
+	C:/Users/anton/Documents/ERP/untitled/main.cpp \
+	C:/Users/anton/Documents/ERP/untitled/mainwindow.cpp \
+	C:/Users/anton/Documents/ERP/untitled/mainwindow.h \
+	C:/Users/anton/Documents/ERP/untitled/products.cpp \
+	C:/Users/anton/Documents/ERP/untitled/products.h \
+	C:/Users/anton/Documents/ERP/untitled/reports.cpp \
+	C:/Users/anton/Documents/ERP/untitled/reports.h \
+	C:/Users/anton/Documents/ERP/untitled/sales.cpp \
+	C:/Users/anton/Documents/ERP/untitled/sales.h \
+	C:/Users/anton/Documents/ERP/untitled/users.cpp \
+	C:/Users/anton/Documents/ERP/untitled/users.h \
+	C:/Users/anton/Documents/ERP/untitled/Clients.ui \
+	C:/Users/anton/Documents/ERP/untitled/Users.ui \
+	C:/Users/anton/Documents/ERP/untitled/mainwindow.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

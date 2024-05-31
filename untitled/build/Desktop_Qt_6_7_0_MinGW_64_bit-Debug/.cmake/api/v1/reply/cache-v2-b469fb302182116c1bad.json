@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/danny/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug"
+			"value" : "c:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/danny/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -563,7 +563,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/danny/Documents/ERP/untitled"
+			"value" : "C:/Users/anton/Documents/ERP/untitled"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1063,7 +1063,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/danny/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake"
+			"value" : "C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake"
 		},
 		{
 			"name" : "CMAKE_PROJECT_NAME",
@@ -6187,7 +6187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/danny/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug"
+			"value" : "C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug"
 		},
 		{
 			"name" : "untitled_IS_TOP_LEVEL",
@@ -6211,7 +6211,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/danny/Documents/ERP/untitled"
+			"value" : "C:/Users/anton/Documents/ERP/untitled"
 		}
 	],
 	"kind" : "cache",
