@@ -7,25 +7,26 @@ mainwindow::mainwindow(QWidget *parent)
     , ui(new Ui::mainwindow)
 {
     ui->setupUi(this);
-    ptrProducts = new Products();
-    ptrClients = new Clients();
-    ptrReports = new Reports();
-    ptrSales = new Sales();
-    ptrUsers = new Users();
+    ptrProducts2window = new Products2Window();
+    ptrClients2window = new Clients2Window();
+    ptrReports2window = new Reports2Window();
+    ptrSaleswindow = new SalesWindow();
+    ptrUsers2window = new Users2Window();
 }
 
 mainwindow::~mainwindow()
 {
-    delete ptrProducts;
-    delete ptrClients;
-    delete ptrReports;
-    delete ptrSales;
-    delete ptrUsers;
+    delete ptrProducts2window;
+    delete ptrClients2window;
+    delete ptrReports2window;
+    delete ptrSaleswindow;
+    delete ptrUsers2window;
     delete ui;
 }
 
+
 void mainwindow::on_loginButton_clicked()
 {
-    ptrProducts->show();
+    ptrProducts2window->show();
 }
 

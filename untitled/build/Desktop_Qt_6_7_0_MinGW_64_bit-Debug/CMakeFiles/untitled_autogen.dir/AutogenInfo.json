@@ -361,9 +361,33 @@
 	"HEADERS" : 
 	[
 		[
-			"C:/Users/anton/Documents/ERP/untitled/clients.h",
+			"C:/Users/anton/Documents/ERP/untitled/addclientwindow.h",
 			"MU",
-			"EWIEGA46WW/moc_clients.cpp",
+			"EWIEGA46WW/moc_addclientwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/anton/Documents/ERP/untitled/addproductwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_addproductwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/anton/Documents/ERP/untitled/addsaleswindow.h",
+			"MU",
+			"EWIEGA46WW/moc_addsaleswindow.cpp",
+			null
+		],
+		[
+			"C:/Users/anton/Documents/ERP/untitled/adduserwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_adduserwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/anton/Documents/ERP/untitled/clients2window.h",
+			"MU",
+			"EWIEGA46WW/moc_clients2window.cpp",
 			null
 		],
 		[
@@ -373,27 +397,27 @@
 			null
 		],
 		[
-			"C:/Users/anton/Documents/ERP/untitled/products.h",
+			"C:/Users/anton/Documents/ERP/untitled/products2window.h",
 			"MU",
-			"EWIEGA46WW/moc_products.cpp",
+			"EWIEGA46WW/moc_products2window.cpp",
 			null
 		],
 		[
-			"C:/Users/anton/Documents/ERP/untitled/reports.h",
+			"C:/Users/anton/Documents/ERP/untitled/reports2window.h",
 			"MU",
-			"EWIEGA46WW/moc_reports.cpp",
+			"EWIEGA46WW/moc_reports2window.cpp",
 			null
 		],
 		[
-			"C:/Users/anton/Documents/ERP/untitled/sales.h",
+			"C:/Users/anton/Documents/ERP/untitled/saleswindow.h",
 			"MU",
-			"EWIEGA46WW/moc_sales.cpp",
+			"EWIEGA46WW/moc_saleswindow.cpp",
 			null
 		],
 		[
-			"C:/Users/anton/Documents/ERP/untitled/users.h",
+			"C:/Users/anton/Documents/ERP/untitled/users2window.h",
 			"MU",
-			"EWIEGA46WW/moc_users.cpp",
+			"EWIEGA46WW/moc_users2window.cpp",
 			null
 		]
 	],
@@ -468,13 +492,41 @@
 	"SETTINGS_FILE" : "C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/untitled_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "C:/Users/anton/Documents/ERP/untitled/clients.cpp", "MU", null ],
+		[
+			"C:/Users/anton/Documents/ERP/untitled/addclientwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/anton/Documents/ERP/untitled/addproductwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/anton/Documents/ERP/untitled/addsaleswindow.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Users/anton/Documents/ERP/untitled/adduserwindow.cpp", "MU", null ],
+		[
+			"C:/Users/anton/Documents/ERP/untitled/clients2window.cpp",
+			"MU",
+			null
+		],
 		[ "C:/Users/anton/Documents/ERP/untitled/main.cpp", "MU", null ],
 		[ "C:/Users/anton/Documents/ERP/untitled/mainwindow.cpp", "MU", null ],
-		[ "C:/Users/anton/Documents/ERP/untitled/products.cpp", "MU", null ],
-		[ "C:/Users/anton/Documents/ERP/untitled/reports.cpp", "MU", null ],
-		[ "C:/Users/anton/Documents/ERP/untitled/sales.cpp", "MU", null ],
-		[ "C:/Users/anton/Documents/ERP/untitled/users.cpp", "MU", null ]
+		[
+			"C:/Users/anton/Documents/ERP/untitled/products2window.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/anton/Documents/ERP/untitled/reports2window.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Users/anton/Documents/ERP/untitled/saleswindow.cpp", "MU", null ],
+		[ "C:/Users/anton/Documents/ERP/untitled/users2window.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

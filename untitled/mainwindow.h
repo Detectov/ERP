@@ -2,11 +2,11 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include "Products.h"
-#include "clients.h"
-#include "reports.h"
-#include "sales.h"
-#include "users.h"
+#include "products2window.h"
+#include "clients2window.h"
+#include "reports2window.h"
+#include "saleswindow.h"
+#include "users2window.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -21,16 +21,16 @@ class mainwindow : public QMainWindow
 public:
     mainwindow(QWidget *parent = nullptr);
     ~mainwindow();
-    Products *ptrProducts;
-    Clients *ptrClients;
-    Reports *ptrReports;
-    Sales *ptrSales;
-    Users *ptrUsers;
+    Products2Window *ptrProducts2window;
+    Clients2Window *ptrClients2window;
+    Reports2Window *ptrReports2window;
+    SalesWindow *ptrSaleswindow;
+    Users2Window *ptrUsers2window;
 
 private slots:
-    void on_loginButton_clicked();
+    void on_pushButton_clicked();
 
-    void on_passwordInput_cursorPositionChanged(int arg1, int arg2);
+    void on_loginButton_clicked();
 
 private:
     Ui::mainwindow *ui;

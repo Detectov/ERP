@@ -79,9 +79,9 @@ build CMakeFiles/untitled.dir/mainwindow.cpp.obj: CXX_COMPILER__untitled_unscann
   TARGET_COMPILE_PDB = CMakeFiles\untitled.dir\
   TARGET_PDB = untitled.pdb
 
-build CMakeFiles/untitled.dir/products.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/products.cpp || cmake_object_order_depends_target_untitled
+build CMakeFiles/untitled.dir/adduserwindow.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/adduserwindow.cpp || cmake_object_order_depends_target_untitled
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\untitled.dir\products.cpp.obj.d
+  DEP_FILE = CMakeFiles\untitled.dir\adduserwindow.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/include -isystem C:/Qt/6.7.0/mingw_64/include/QtCore -isystem C:/Qt/6.7.0/mingw_64/include -isystem C:/Qt/6.7.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.0/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\untitled.dir
@@ -89,9 +89,9 @@ build CMakeFiles/untitled.dir/products.cpp.obj: CXX_COMPILER__untitled_unscanned
   TARGET_COMPILE_PDB = CMakeFiles\untitled.dir\
   TARGET_PDB = untitled.pdb
 
-build CMakeFiles/untitled.dir/sales.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/sales.cpp || cmake_object_order_depends_target_untitled
+build CMakeFiles/untitled.dir/addsaleswindow.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/addsaleswindow.cpp || cmake_object_order_depends_target_untitled
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\untitled.dir\sales.cpp.obj.d
+  DEP_FILE = CMakeFiles\untitled.dir\addsaleswindow.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/include -isystem C:/Qt/6.7.0/mingw_64/include/QtCore -isystem C:/Qt/6.7.0/mingw_64/include -isystem C:/Qt/6.7.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.0/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\untitled.dir
@@ -99,9 +99,9 @@ build CMakeFiles/untitled.dir/sales.cpp.obj: CXX_COMPILER__untitled_unscanned_De
   TARGET_COMPILE_PDB = CMakeFiles\untitled.dir\
   TARGET_PDB = untitled.pdb
 
-build CMakeFiles/untitled.dir/reports.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/reports.cpp || cmake_object_order_depends_target_untitled
+build CMakeFiles/untitled.dir/addproductwindow.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/addproductwindow.cpp || cmake_object_order_depends_target_untitled
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\untitled.dir\reports.cpp.obj.d
+  DEP_FILE = CMakeFiles\untitled.dir\addproductwindow.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/include -isystem C:/Qt/6.7.0/mingw_64/include/QtCore -isystem C:/Qt/6.7.0/mingw_64/include -isystem C:/Qt/6.7.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.0/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\untitled.dir
@@ -109,9 +109,9 @@ build CMakeFiles/untitled.dir/reports.cpp.obj: CXX_COMPILER__untitled_unscanned_
   TARGET_COMPILE_PDB = CMakeFiles\untitled.dir\
   TARGET_PDB = untitled.pdb
 
-build CMakeFiles/untitled.dir/clients.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/clients.cpp || cmake_object_order_depends_target_untitled
+build CMakeFiles/untitled.dir/addclientwindow.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/addclientwindow.cpp || cmake_object_order_depends_target_untitled
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\untitled.dir\clients.cpp.obj.d
+  DEP_FILE = CMakeFiles\untitled.dir\addclientwindow.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/include -isystem C:/Qt/6.7.0/mingw_64/include/QtCore -isystem C:/Qt/6.7.0/mingw_64/include -isystem C:/Qt/6.7.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.0/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\untitled.dir
@@ -119,9 +119,49 @@ build CMakeFiles/untitled.dir/clients.cpp.obj: CXX_COMPILER__untitled_unscanned_
   TARGET_COMPILE_PDB = CMakeFiles\untitled.dir\
   TARGET_PDB = untitled.pdb
 
-build CMakeFiles/untitled.dir/users.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/users.cpp || cmake_object_order_depends_target_untitled
+build CMakeFiles/untitled.dir/products2window.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/products2window.cpp || cmake_object_order_depends_target_untitled
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\untitled.dir\users.cpp.obj.d
+  DEP_FILE = CMakeFiles\untitled.dir\products2window.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/include -isystem C:/Qt/6.7.0/mingw_64/include/QtCore -isystem C:/Qt/6.7.0/mingw_64/include -isystem C:/Qt/6.7.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.0/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir
+  TARGET_COMPILE_PDB = CMakeFiles\untitled.dir\
+  TARGET_PDB = untitled.pdb
+
+build CMakeFiles/untitled.dir/saleswindow.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/saleswindow.cpp || cmake_object_order_depends_target_untitled
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\untitled.dir\saleswindow.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/include -isystem C:/Qt/6.7.0/mingw_64/include/QtCore -isystem C:/Qt/6.7.0/mingw_64/include -isystem C:/Qt/6.7.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.0/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir
+  TARGET_COMPILE_PDB = CMakeFiles\untitled.dir\
+  TARGET_PDB = untitled.pdb
+
+build CMakeFiles/untitled.dir/reports2window.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/reports2window.cpp || cmake_object_order_depends_target_untitled
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\untitled.dir\reports2window.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/include -isystem C:/Qt/6.7.0/mingw_64/include/QtCore -isystem C:/Qt/6.7.0/mingw_64/include -isystem C:/Qt/6.7.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.0/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir
+  TARGET_COMPILE_PDB = CMakeFiles\untitled.dir\
+  TARGET_PDB = untitled.pdb
+
+build CMakeFiles/untitled.dir/clients2window.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/clients2window.cpp || cmake_object_order_depends_target_untitled
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\untitled.dir\clients2window.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/include -isystem C:/Qt/6.7.0/mingw_64/include/QtCore -isystem C:/Qt/6.7.0/mingw_64/include -isystem C:/Qt/6.7.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.0/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir
+  TARGET_COMPILE_PDB = CMakeFiles\untitled.dir\
+  TARGET_PDB = untitled.pdb
+
+build CMakeFiles/untitled.dir/users2window.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Users/anton/Documents/ERP/untitled/users2window.cpp || cmake_object_order_depends_target_untitled
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\untitled.dir\users2window.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/include -isystem C:/Qt/6.7.0/mingw_64/include/QtCore -isystem C:/Qt/6.7.0/mingw_64/include -isystem C:/Qt/6.7.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.0/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\untitled.dir
@@ -137,7 +177,7 @@ build CMakeFiles/untitled.dir/users.cpp.obj: CXX_COMPILER__untitled_unscanned_De
 #############################################
 # Link the executable untitled.exe
 
-build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj CMakeFiles/untitled.dir/main.cpp.obj CMakeFiles/untitled.dir/mainwindow.cpp.obj CMakeFiles/untitled.dir/products.cpp.obj CMakeFiles/untitled.dir/sales.cpp.obj CMakeFiles/untitled.dir/reports.cpp.obj CMakeFiles/untitled.dir/clients.cpp.obj CMakeFiles/untitled.dir/users.cpp.obj | C$:/Qt/6.7.0/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.7.0/mingw_64/lib/libQt6Gui.a C$:/Qt/6.7.0/mingw_64/lib/libQt6Core.a C$:/Qt/6.7.0/mingw_64/lib/libQt6EntryPoint.a || untitled_autogen untitled_autogen_timestamp_deps
+build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj CMakeFiles/untitled.dir/main.cpp.obj CMakeFiles/untitled.dir/mainwindow.cpp.obj CMakeFiles/untitled.dir/adduserwindow.cpp.obj CMakeFiles/untitled.dir/addsaleswindow.cpp.obj CMakeFiles/untitled.dir/addproductwindow.cpp.obj CMakeFiles/untitled.dir/addclientwindow.cpp.obj CMakeFiles/untitled.dir/products2window.cpp.obj CMakeFiles/untitled.dir/saleswindow.cpp.obj CMakeFiles/untitled.dir/reports2window.cpp.obj CMakeFiles/untitled.dir/clients2window.cpp.obj CMakeFiles/untitled.dir/users2window.cpp.obj | C$:/Qt/6.7.0/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.7.0/mingw_64/lib/libQt6Gui.a C$:/Qt/6.7.0/mingw_64/lib/libQt6Core.a C$:/Qt/6.7.0/mingw_64/lib/libQt6EntryPoint.a || untitled_autogen untitled_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = C:/Qt/6.7.0/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.7.0/mingw_64/lib/libQt6Gui.a  C:/Qt/6.7.0/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  C:/Qt/6.7.0/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
@@ -225,7 +265,7 @@ build untitled_autogen_timestamp_deps: phony CMakeFiles/untitled_autogen_timesta
 #############################################
 # Utility command for untitled_autogen
 
-build untitled_autogen: phony CMakeFiles/untitled_autogen untitled_autogen/include/ui_mainwindow.h untitled_autogen/include/ui_Products.h untitled_autogen/include/ui_Sales.h untitled_autogen/include/ui_Reports.h untitled_autogen/include/ui_Clients.h untitled_autogen/include/ui_Users.h untitled_autogen/timestamp untitled_autogen/mocs_compilation.cpp untitled_autogen_timestamp_deps
+build untitled_autogen: phony CMakeFiles/untitled_autogen untitled_autogen/include/ui_mainwindow.h untitled_autogen/include/ui_adduserwindow.h untitled_autogen/include/ui_addsaleswindow.h untitled_autogen/include/ui_addproductwindow.h untitled_autogen/include/ui_addclientwindow.h untitled_autogen/include/ui_products2window.h untitled_autogen/include/ui_saleswindow.h untitled_autogen/include/ui_reports2window.h untitled_autogen/include/ui_clients2window.h untitled_autogen/include/ui_users2window.h untitled_autogen/timestamp untitled_autogen/mocs_compilation.cpp untitled_autogen_timestamp_deps
 
 
 #############################################
@@ -241,13 +281,13 @@ build untitled_autogen/timestamp untitled_autogen/mocs_compilation.cpp | ${cmake
 #############################################
 # Phony custom command for CMakeFiles\untitled_autogen_timestamp_deps
 
-build CMakeFiles/untitled_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/untitled_autogen_timestamp_deps: phony C$:/Qt/6.7.0/mingw_64/lib/libQt6Core.a C$:/Qt/6.7.0/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.7.0/mingw_64/./bin/uic.exe C$:/Qt/6.7.0/mingw_64/./bin/moc.exe
+build CMakeFiles/untitled_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/untitled_autogen_timestamp_deps: phony C$:/Qt/6.7.0/mingw_64/./bin/uic.exe C$:/Qt/6.7.0/mingw_64/./bin/moc.exe C$:/Qt/6.7.0/mingw_64/lib/libQt6Core.a C$:/Qt/6.7.0/mingw_64/lib/libQt6Widgets.a
 
 
 #############################################
 # Phony custom command for CMakeFiles\untitled_autogen
 
-build CMakeFiles/untitled_autogen untitled_autogen/include/ui_mainwindow.h untitled_autogen/include/ui_Products.h untitled_autogen/include/ui_Sales.h untitled_autogen/include/ui_Reports.h untitled_autogen/include/ui_Clients.h untitled_autogen/include/ui_Users.h | ${cmake_ninja_workdir}CMakeFiles/untitled_autogen ${cmake_ninja_workdir}untitled_autogen/include/ui_mainwindow.h ${cmake_ninja_workdir}untitled_autogen/include/ui_Products.h ${cmake_ninja_workdir}untitled_autogen/include/ui_Sales.h ${cmake_ninja_workdir}untitled_autogen/include/ui_Reports.h ${cmake_ninja_workdir}untitled_autogen/include/ui_Clients.h ${cmake_ninja_workdir}untitled_autogen/include/ui_Users.h: phony untitled_autogen/timestamp || untitled_autogen_timestamp_deps
+build CMakeFiles/untitled_autogen untitled_autogen/include/ui_mainwindow.h untitled_autogen/include/ui_adduserwindow.h untitled_autogen/include/ui_addsaleswindow.h untitled_autogen/include/ui_addproductwindow.h untitled_autogen/include/ui_addclientwindow.h untitled_autogen/include/ui_products2window.h untitled_autogen/include/ui_saleswindow.h untitled_autogen/include/ui_reports2window.h untitled_autogen/include/ui_clients2window.h untitled_autogen/include/ui_users2window.h | ${cmake_ninja_workdir}CMakeFiles/untitled_autogen ${cmake_ninja_workdir}untitled_autogen/include/ui_mainwindow.h ${cmake_ninja_workdir}untitled_autogen/include/ui_adduserwindow.h ${cmake_ninja_workdir}untitled_autogen/include/ui_addsaleswindow.h ${cmake_ninja_workdir}untitled_autogen/include/ui_addproductwindow.h ${cmake_ninja_workdir}untitled_autogen/include/ui_addclientwindow.h ${cmake_ninja_workdir}untitled_autogen/include/ui_products2window.h ${cmake_ninja_workdir}untitled_autogen/include/ui_saleswindow.h ${cmake_ninja_workdir}untitled_autogen/include/ui_reports2window.h ${cmake_ninja_workdir}untitled_autogen/include/ui_clients2window.h ${cmake_ninja_workdir}untitled_autogen/include/ui_users2window.h: phony untitled_autogen/timestamp || untitled_autogen_timestamp_deps
 
 # =============================================================================
 # Target aliases.

@@ -17,27 +17,49 @@ set(PROJECT_SOURCES
         mainwindow.cpp
         mainwindow.h
         mainwindow.ui
-        Products.cpp
-        Products.ui
-        Products.h
-        Sales.cpp
-        Sales.ui
-        Sales.h
-        reports.cpp
-        Reports.ui
-        reports.h
-        clients.cpp
-        Clients.ui
-        clients.h
-        Users.cpp
-        Users.ui
-        Users.h
+        adduserwindow.cpp
+        adduserwindow.h
+        adduserwindow.ui
+        addsaleswindow.cpp
+        addsaleswindow.h
+        addsaleswindow.ui
+        addproductwindow.cpp
+        addproductwindow.h
+        addproductwindow.ui
+        addclientwindow.cpp
+        addclientwindow.h
+        addclientwindow.ui
+        products2window.cpp
+        products2window.ui
+        products2window.h
+        saleswindow.cpp
+        saleswindow.ui
+        saleswindow.h
+        reports2window.cpp
+        reports2window.ui
+        reports2window.h
+        clients2window.cpp
+        clients2window.ui
+        clients2window.h
+        users2window.cpp
+        users2window.ui
+        users2window.h
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(untitled
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        mainwindow.h mainwindow.cpp mainwindow.ui
+        addproductwindow.h addproductwindow.cpp addproductwindow.ui
+        addsaleswindow.h addsaleswindow.cpp addsaleswindow.ui
+        addclientwindow.h addclientwindow.cpp addclientwindow.ui
+        adduserwindow.h adduserwindow.cpp adduserwindow.ui
+        clients2window.h clients2window.cpp clients2window.ui
+        products2window.h products2window.cpp products2window.ui
+        reports2window.h reports2window.cpp reports2window.ui
+        saleswindow.h saleswindow.cpp saleswindow.ui
+        users2window.h users2window.cpp users2window.ui
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET untitled APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

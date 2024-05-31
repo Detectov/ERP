@@ -608,25 +608,40 @@ untitled_autogen/timestamp: \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
 	C:/Users/anton/Documents/ERP/untitled/CMakeLists.txt \
+	C:/Users/anton/Documents/ERP/untitled/addclientwindow.cpp \
+	C:/Users/anton/Documents/ERP/untitled/addclientwindow.h \
+	C:/Users/anton/Documents/ERP/untitled/addproductwindow.cpp \
+	C:/Users/anton/Documents/ERP/untitled/addproductwindow.h \
+	C:/Users/anton/Documents/ERP/untitled/addsaleswindow.cpp \
+	C:/Users/anton/Documents/ERP/untitled/addsaleswindow.h \
+	C:/Users/anton/Documents/ERP/untitled/adduserwindow.cpp \
+	C:/Users/anton/Documents/ERP/untitled/adduserwindow.h \
 	C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
 	C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake \
 	C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeRCCompiler.cmake \
 	C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeSystem.cmake \
 	C:/Users/anton/Documents/ERP/untitled/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled_autogen/moc_predefs.h \
-	C:/Users/anton/Documents/ERP/untitled/clients.cpp \
-	C:/Users/anton/Documents/ERP/untitled/clients.h \
+	C:/Users/anton/Documents/ERP/untitled/clients2window.cpp \
+	C:/Users/anton/Documents/ERP/untitled/clients2window.h \
 	C:/Users/anton/Documents/ERP/untitled/main.cpp \
 	C:/Users/anton/Documents/ERP/untitled/mainwindow.cpp \
 	C:/Users/anton/Documents/ERP/untitled/mainwindow.h \
-	C:/Users/anton/Documents/ERP/untitled/products.cpp \
-	C:/Users/anton/Documents/ERP/untitled/products.h \
-	C:/Users/anton/Documents/ERP/untitled/reports.cpp \
-	C:/Users/anton/Documents/ERP/untitled/reports.h \
-	C:/Users/anton/Documents/ERP/untitled/sales.cpp \
-	C:/Users/anton/Documents/ERP/untitled/sales.h \
-	C:/Users/anton/Documents/ERP/untitled/users.cpp \
-	C:/Users/anton/Documents/ERP/untitled/users.h \
-	C:/Users/anton/Documents/ERP/untitled/Clients.ui \
-	C:/Users/anton/Documents/ERP/untitled/Users.ui \
+	C:/Users/anton/Documents/ERP/untitled/products2window.cpp \
+	C:/Users/anton/Documents/ERP/untitled/products2window.h \
+	C:/Users/anton/Documents/ERP/untitled/reports2window.cpp \
+	C:/Users/anton/Documents/ERP/untitled/reports2window.h \
+	C:/Users/anton/Documents/ERP/untitled/saleswindow.cpp \
+	C:/Users/anton/Documents/ERP/untitled/saleswindow.h \
+	C:/Users/anton/Documents/ERP/untitled/users2window.cpp \
+	C:/Users/anton/Documents/ERP/untitled/users2window.h \
+	C:/Users/anton/Documents/ERP/untitled/addclientwindow.ui \
+	C:/Users/anton/Documents/ERP/untitled/addproductwindow.ui \
+	C:/Users/anton/Documents/ERP/untitled/addsaleswindow.ui \
+	C:/Users/anton/Documents/ERP/untitled/adduserwindow.ui \
+	C:/Users/anton/Documents/ERP/untitled/clients2window.ui \
 	C:/Users/anton/Documents/ERP/untitled/mainwindow.ui \
+	C:/Users/anton/Documents/ERP/untitled/products2window.ui \
+	C:/Users/anton/Documents/ERP/untitled/reports2window.ui \
+	C:/Users/anton/Documents/ERP/untitled/saleswindow.ui \
+	C:/Users/anton/Documents/ERP/untitled/users2window.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe
