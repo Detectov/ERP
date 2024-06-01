@@ -1,0 +1,40 @@
+cmake_minimum_required(VERSION 3.28)
+project(MVC_template)
+
+set(CMAKE_CXX_STANDARD 17)
+
+# Add source files
+add_executable(MVC_template
+        main.cpp
+        Models/source/User.cpp
+        Models/include/User.h
+        Models/source/DatabaseManager.cpp
+        Models/include/DatabaseManager.h
+        Controllers/Authentication.cpp
+        Controllers/Authentication.h
+        Views/SimpleLoginFormTerminal.cpp
+        Views/SimpleLoginFormTerminal.h
+        Models/source/Client.cpp
+        Models/include/Client.h
+        Models/source/FiscalRegimen.cpp
+        Models/include/FiscalRegimen.h
+        Models/source/Presentation.cpp
+        Models/include/Presentation.h
+        Models/source/Product.cpp
+        Models/include/Product.h
+        Models/source/Sale.cpp
+        Models/include/Sale.h
+        Models/source/SoldProduct.cpp
+        Models/include/SoldProduct.h)
+
+# Find and include SQLite
+find_package(SQLite3)
+if (NOT SQLITE3_FOUND)
+    message(STATUS "SQLite3 not found, setting paths manually")
+    set(SQLITE3_INCLUDE_DIRS "/opt/homebrew/opt/sqlite3/include")
+    set(SQLITE3_LIBRARIES "/opt/homebrew/opt/sqlite3/lib/libsqlite3.dylib")
+endif()
+
+include_directories(${SQLITE3_INCLUDE_DIRS})
+target_link_libraries(MVC_template PRIVATE /opt/homebrew/opt/sqlite3/lib/libsqlite3.dylib)
+

@@ -1,0 +1,17 @@
+# ninja log v5
+820	1082	1717206993622047198	CMakeFiles/MVC_template.dir/Models/source/Presentation.cpp.o	2ace6b75e2fb9f28
+4	359	1717207005756868400	CMakeFiles/MVC_template.dir/main.cpp.o	c07f9b2eebc0b35d
+6	433	1717201672444168520	CMakeFiles/MVC_template.dir/Models/User.cpp.o	bc3f2710cf04aec0
+9	460	1717202785742334598	CMakeFiles/MVC_template.dir/Models/DatabaseManager.cpp.o	97b3bbf2f316ea15
+359	452	1717207005852535772	MVC_template	e5c4876bef9c0ed7
+4	558	1717203334939912158	CMakeFiles/MVC_template.dir/Models/Presentation.cpp.o	3eded5ff33bf33ca
+11	842	1717206993382185476	CMakeFiles/MVC_template.dir/Views/SimpleLoginFormTerminal.cpp.o	b4a2b3828bdad350
+11	823	1717206993340162683	CMakeFiles/MVC_template.dir/Controllers/Authentication.cpp.o	82564c65aea4a68c
+7	876	1717201423628490003	CMakeFiles/MVC_template.dir/Models/FiscalRegimen.cpp.o	56670a8843f92e38
+822	1101	1717206993642247759	CMakeFiles/MVC_template.dir/Models/source/Product.cpp.o	f9f432e379e4764c
+6	877	1717201423630276921	CMakeFiles/MVC_template.dir/Models/Client.cpp.o	7503683d12d4e6f0
+12	820	1717206993356693733	CMakeFiles/MVC_template.dir/Models/source/Client.cpp.o	e94599ccec3a4ec7
+12	871	1717206993410905396	CMakeFiles/MVC_template.dir/Models/source/FiscalRegimen.cpp.o	d82af61311d0f14e
+5	696	1717205817825540504	CMakeFiles/MVC_template.dir/Models/source/DatabaseManager.cpp.o	b8bf2d40a89822b5
+2	78	1717210078467973385	build.ninja	d54bc8666fa86cbc
+10	859	1717206993398456858	CMakeFiles/MVC_template.dir/Models/source/User.cpp.o	9ee168dec044e9f4

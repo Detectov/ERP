@@ -1,0 +1,3 @@
+/Users/Mou/Downloads/MVC_template/cmake-build-debug/CMakeFiles/MVC_template.dir
+/Users/Mou/Downloads/MVC_template/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Mou/Downloads/MVC_template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
