@@ -12,3 +12,57 @@ Clients2Window::~Clients2Window()
 {
     delete ui;
 }
+
+void Clients2Window::on_pushButton_clicked()
+{
+
+}
+
+
+void Clients2Window::on_pushButton_2_clicked()
+{
+
+}
+
+
+void Clients2Window::on_pushButton_3_clicked()
+{
+
+}
+
+
+void Clients2Window::on_pushButton_4_clicked()
+{
+
+}
+
+
+void Clients2Window::on_pushButton_5_clicked()
+{
+
+}
+
+
+void Clients2Window::on_pushButton_10_clicked()
+{
+
+}
+
+
+void Clients2Window::on_pushButton_9_clicked()
+{
+
+}
+
+
+void Clients2Window::on_pushButton_8_clicked()
+{
+
+}
+
+
+void Clients2Window::on_pushButton_7_clicked()
+{
+
+}
+

@@ -12,3 +12,51 @@ Users2Window::~Users2Window()
 {
     delete ui;
 }
+
+void Users2Window::on_pushButton_clicked()
+{
+
+}
+
+
+void Users2Window::on_pushButton_2_clicked()
+{
+
+}
+
+
+void Users2Window::on_pushButton_3_clicked()
+{
+
+}
+
+
+void Users2Window::on_pushButton_4_clicked()
+{
+
+}
+
+
+void Users2Window::on_pushButton_10_clicked()
+{
+
+}
+
+
+void Users2Window::on_pushButton_9_clicked()
+{
+
+}
+
+
+void Users2Window::on_pushButton_8_clicked()
+{
+
+}
+
+
+void Users2Window::on_pushButton_7_clicked()
+{
+
+}
+

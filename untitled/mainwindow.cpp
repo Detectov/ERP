@@ -29,4 +29,3 @@ void mainwindow::on_loginButton_clicked()
 {
     ptrProducts2window->show();
 }
-

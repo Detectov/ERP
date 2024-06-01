@@ -12,3 +12,51 @@ Reports2Window::~Reports2Window()
 {
     delete ui;
 }
+
+void Reports2Window::on_pushButton_clicked()
+{
+
+}
+
+
+void Reports2Window::on_pushButton_3_clicked()
+{
+
+}
+
+
+void Reports2Window::on_pushButton_4_clicked()
+{
+
+}
+
+
+void Reports2Window::on_pushButton_5_clicked()
+{
+
+}
+
+
+void Reports2Window::on_pushButton_10_clicked()
+{
+
+}
+
+
+void Reports2Window::on_pushButton_9_clicked()
+{
+
+}
+
+
+void Reports2Window::on_pushButton_8_clicked()
+{
+
+}
+
+
+void Reports2Window::on_pushButton_7_clicked()
+{
+
+}
+
